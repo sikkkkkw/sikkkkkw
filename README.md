@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F5AAAA&height=220&section=header&text=Hello,%202024!!&fontSize=40&fontColor=f6f6f6&stroke=353535&strokeWidth=1.5&desc=I'm%20JaeSik&descAlignY=65&descAlign=60" />
 ### 안녕하세요 👋
 
-저는 JaeSik이라고 합니다. 현재는 HTML, CSS, JavaScript 등을 활용하여 웹 개발을 하고 있어요.
+저는 재식이고, 현재는 HTML, CSS, JavaScript 등을 활용하여 웹 개발을 하고 있어요.
 #
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikkkkkw&layout=compact&theme=dracula" style="max-width: 100%;">
 
